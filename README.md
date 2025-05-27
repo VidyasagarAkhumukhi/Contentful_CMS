@@ -15,7 +15,9 @@ This project is a React-based portfolio website that dynamically fetches and dis
 
 ## 🚀 Live Demo
 
-[Link to Live Demo]() ## 🛠️ Technologies Used
+[Link to Live Demo](https://contentfulcmsprojects.netlify.app/) 
+
+## 🛠️ Technologies Used
 
 - **Frontend:** React.js (Vite assumed, based on `import.meta.env`)
 - **CMS:** Contentful
